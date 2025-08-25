@@ -1,0 +1,157 @@
+Privacy Policy — Enterprise WebApp Builder GPT
+
+Effective date: 25 August 2025
+Last updated: 25 August 2025
+
+1) Who we are
+
+“Enterprise WebApp Builder GPT” (“Service”, “we”, “our”) is provided by YourCompany Pvt. Ltd. (“Controller”). We help users turn a short objective into a secure web-app plan, docs, GitHub repo setup, and optional deployment on Render.
+
+Contact: giet11eee036@gmail.com
+
+Grievance Officer (India): kiran_9394@hotmail.com
+ (Response within 15 days)
+
+2) Scope
+
+This policy explains how we handle personal data when you:
+
+Chat with the GPT (prompts, files, settings)
+
+Use Actions (e.g., create docs, create a GitHub repo, deploy on Render)
+
+Visit our websites/hosted policy page
+
+3) What we collect
+
+Chat Content: text you type, files you upload for analysis/doc generation.
+
+Project Metadata: project names, feature lists, tech stack choices, URLs returned by actions.
+
+Account & Auth Data: (only if you connect services) GitHub username/org/repo names; Render service names/IDs.
+
+Operational Logs: timestamps, action names, status codes, error messages, request IDs (no code/secret bodies).
+
+Device/Usage (website only): IP (transient), user-agent, basic analytics.
+
+We do not ask for or store payment details via the GPT.
+Secrets (API keys, tokens) are requested only when strictly needed and are stored in secret managers, not in chat history.
+
+4) Sources
+
+You (prompts, files, settings)
+
+Connected services (GitHub, Render) — metadata returned by their APIs
+
+Public web (for competitor feature checks)
+
+5) Purposes & legal bases
+
+Provide the Service (generate plans/docs, integrate repos, deploy): contract necessity.
+
+Security & abuse prevention (rate-limits, audit logs): legitimate interests/legal obligation.
+
+Improvements & quality (anonymized aggregate metrics): legitimate interests.
+
+Consent-based features (optional competitor lookups, marketing opt-in): consent.
+
+6) How we use your data
+
+Generate architecture/tech stack/security plans and PDFs on your request.
+
+Create/initialize GitHub repos and CI/CD files you ask for.
+
+Trigger deployments on Render you ask for.
+
+Run competitor/product lookups on the public web when you ask for it.
+
+Provide troubleshooting and support.
+
+7) Sharing & processors
+
+We use vetted sub-processors to run the Service:
+
+OpenAI (model inference for chats and Actions)
+
+GitHub (if connected by you)
+
+Render (if you deploy)
+
+Cloud hosting/CDN/email providers for our API and document delivery
+
+Error monitoring/logging tools (metadata only)
+
+We do not sell personal data. We disclose data to authorities only if legally required.
+
+8) International transfers
+
+Data may be processed globally. We use safeguards such as SCCs (GDPR) or equivalent transfer mechanisms. DPDP compliance is followed for transfers from India.
+
+9) Security
+
+TLS in transit; encrypted storage for documents and metadata
+
+Secrets in a dedicated secret manager; least-privilege access; key rotation
+
+Audit logging; dependency and vulnerability scanning; periodic reviews
+
+CI/CD hardening; environment isolation; principle of least privilege
+
+Incident response plan and breach notification processes
+
+10) Retention
+
+Generated PDFs & project artifacts: 90 days (default) or as set by you
+
+Action logs/metadata: 180 days (for security/audit)
+
+Chat transcripts: per your ChatGPT account settings; we minimize storing outside OpenAI
+
+Deletion on request: honored unless we must retain for legal reasons
+
+11) Your rights
+
+Subject to law (GDPR/DPDP), you may request:
+
+Access, correction, deletion
+
+Portability (structured, machine-readable)
+
+Restriction or objection to processing
+
+Withdraw consent (for consent-based features)
+
+How: email privacy@yourdomain.com
+. For India, you may escalate to the Grievance Officer.
+
+12) Children
+
+Not intended for individuals under 18. We do not knowingly process children’s data.
+
+13) Cookies
+
+Our website may use strictly-necessary and basic analytics cookies. No cross-site ad tracking.
+
+14) Automated decision-making
+
+We use AI to generate content and plans at your direction. We do not make decisions producing legal or similarly significant effects without human involvement.
+
+15) Your responsibilities
+
+Do not upload special categories of personal data (health, biometrics, etc.) unless contractually required and appropriate safeguards are in place.
+
+Remove secrets from prompts; provide tokens only via secure secret fields when requested.
+
+Respect third-party terms (GitHub, Render).
+
+16) Third-party links
+
+Links returned by the GPT (e.g., competitor sites) are outside our control. Review their privacy policies.
+
+17) Changes to this policy
+
+We will update this page and adjust the “Last updated” date. Material changes will be announced in-product or by email where possible.
+
+Short Summary (non-binding)
+
+We use your prompts/files only to provide what you ask (plans, PDFs, repos, deployments). We keep logs briefly for reliability/security, store docs for a limited time, secure everything with encryption and least privilege, don’t sell data, and honor GDPR/DPDP rights.
